@@ -11,7 +11,7 @@ Character : Static Aria2 build</br>
 Declaration：Some (modified) files / scripts are from the project of q3aql. Appreciate for q3aql.</br>
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Many thanks for the developers of Aria2c project.</br>
 </br>
-Other：When the aria2 is running on Windows X64, the path of ca-cerificates should be declared in the conf file.</br>
+Other：The path of ca-cerificates should be declared in the conf file when Windows is selected.</br>
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;The the parameter "ca-certificate=\Path to\ca-certificates.crt" can be adopted. </br>
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Specify the ca-certificates path on GNU/linux X64 is not necessary.</br>
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Linux binaries read the certificates from /etc/ssl/certs/ca-certificates.crt .</br>
